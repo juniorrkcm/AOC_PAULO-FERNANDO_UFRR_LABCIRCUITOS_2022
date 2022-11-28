@@ -19,7 +19,7 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 ## Ferramentas Utilizadas 🛠
 ### Intel Quartus
 <p align='center'>
-<img src="">
+<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/Quartus_prime_icon.png">
 </p>
 
 > **Intel Quartus Prime** é um software de design de dispositivo lógico programável produzido pela Intel; antes da aquisição da Altera pela Intel, a ferramenta era chamada Altera Quartus Prime, anteriormente Altera Quartus II. (fonte: [Wikipedia](https://en.wikipedia.org/wiki/Intel_Quartus_Prime))
@@ -27,7 +27,7 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 ### Visual Studio Code
 
 <p align='center'>
-<img src="">
+<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 
 > O **Visual Studio Code** é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, *snippets* e refatoração de código.(fonte:[Wikipedia](https://pt.wikipedia.org/wiki/Visual_Studio_Code))
@@ -35,7 +35,7 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 ### Draw.io
 
 <p align='center'>
-<img src="">
+<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/drawio_logo_RGB_symbol_large.png">
 </p>
 
 >O **Draw.io** é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.(fonte:[TechTudo](https://www.techtudo.com.br/tudo-sobre/drawio.html))
