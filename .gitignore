@@ -1,9 +1,12 @@
 *.rar
 /RELATORIO
-/IMG TESTES
 /COMPONENTES/**/*.qsf
 /COMPONENTES/**/*.qws
 /COMPONENTES/**/simulation
 /COMPONENTES/**/output_files
 /COMPONENTES/**/db
 /COMPONENTES/**/incremental_db
+/datapath.drawio
+/COMPONENTES
+/IMG-COMPONENTES
+/README.md

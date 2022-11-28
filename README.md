@@ -2,7 +2,7 @@
 
 ## Autores do Projeto
 
-* [**Paulo Ferreira da Silva Júnior**](https://github.com/juniorrkcm)
+* [**Paulo Ferreira da Silva Júnior**] (https://github.com/juniorrkcm)
 * [**Fernando Souza Rodrigues**]
 ---
 ## Sobre 📚
