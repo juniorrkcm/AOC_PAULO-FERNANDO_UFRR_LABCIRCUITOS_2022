@@ -2,8 +2,8 @@
 
 ## Autores do Projeto
 
-* [**Paulo Ferreira da Silva Júnior**] (https://github.com/juniorrkcm)
-* [**Fernando Souza Rodrigues**]
+* [**Paulo Ferreira da Silva Júnior**](https://github.com/juniorrkcm)
+* [**Fernando Souza Rodrigues**](https://github.com/fernando124655)
 ---
 ## Sobre 📚
 Projeto de conclusão de semestre referente a matéria de **Arquitetura e Organização de Computadores**, ofertada no 3° Semestre do curso de **Ciências da Computação**, ministrada por Hebert Oliveira, na **Universidade Federal de Roraima - UFRR**.
@@ -11,7 +11,7 @@ Projeto de conclusão de semestre referente a matéria de **Arquitetura e Organi
 O objetivo é desenvolver componentes em MIPS, levando em conta as limitações existentes pela pequena quantidade de bits dentre outros.
 
 A organização dos diretórios é a seguinte e cada um possui as seguintes informações:
-* **COMPONENTS** : diretórios contendo os arquivos de extensão `.vhd` utilizados para desenvolvimento do processador;
+* **COMPONENTES** : diretórios contendo os arquivos de extensão `.vhd` utilizados para desenvolvimento do processador;
 * **DATAPATH** : diretório contendo arquivo visual da organização dos componentes;
 * **RELATÓRIO**: contém arquivo explicando o funcionamento e resultado de testes do projeto.
 
