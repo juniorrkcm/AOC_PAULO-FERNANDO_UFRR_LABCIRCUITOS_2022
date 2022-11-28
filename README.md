@@ -27,7 +27,7 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 ### Visual Studio Code
 
 <p align='center'>
-<img src="">
+<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/file_type_vscode_icon_130084.png">
 </p>
 
 > O **Visual Studio Code** é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, *snippets* e refatoração de código.(fonte:[Wikipedia](https://pt.wikipedia.org/wiki/Visual_Studio_Code))
